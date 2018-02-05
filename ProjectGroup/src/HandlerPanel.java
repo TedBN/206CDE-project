@@ -17,6 +17,7 @@ public class HandlerPanel {
     private JLabel CLabel;
     private JLabel BLabel;
     private JLabel ALabel;
+    private JPanel cenerPanel;
 
 
     public HandlerPanel(){

@@ -58,7 +58,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HandlerPanel.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HandlerPanel.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/HandlerPanel.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
@@ -70,7 +70,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HandlerPanel.form" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HandlerPanel.form" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HandlerPanel.form">
           <provider selected="true" editor-type-id="ui-designer">
             <state />
@@ -337,12 +337,12 @@
       <option name="presentableId" value="Default" />
       <updated>1359379246138</updated>
       <workItem from="1359379250712" duration="1302000" />
-      <workItem from="1517496875589" duration="22963000" />
+      <workItem from="1517496875589" duration="24394000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24265000" />
+    <option name="totallyTimeSpent" value="25696000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -480,6 +480,11 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/HandlerPanel.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/HandlerPanel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -488,11 +493,6 @@
             <element signature="imports" expanded="true" />
           </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HandlerPanel.form">
-      <provider selected="true" editor-type-id="ui-designer">
-        <state />
       </provider>
     </entry>
   </component>
