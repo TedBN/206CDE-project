@@ -1,8 +1,8 @@
 # 206CDE-project
 Contains code for the undertaken as part of the 206CDE module
 
-<b> Current ideas and ssignments: </b>
 
+<b> Current ideas and ssignments: </b>
 
 Shape matching - assigned to Jessica
 
