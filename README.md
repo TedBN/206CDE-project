@@ -1,5 +1,5 @@
 # 206CDE-project
-Contains code for the undertaken as part of the 206CDE module
+Contains code for the undertaken project as part of the 206CDE module
 
 
 <b> Current ideas and assignments: </b>
